@@ -53,7 +53,8 @@ You can find all completed notebooks in the `/notebooks` folder:
 
 ## Presentation
 
-The full presentation is available in PDF/PowerPoint format in this repository.  
+The full presentation is available in PDF/PowerPoint format in this repository.
+Although the project followed the provided structure, particular care was taken in visual clarity, layout, and completeness of each analysis step.
 Peer-reviewed as part of the IBM Data Science Capstone.
 
 ## Tools Used
