@@ -62,6 +62,7 @@ Peer-reviewed as part of the IBM Data Science Capstone.
 - Python, Pandas, NumPy  
 - BeautifulSoup, SQLite, Seaborn, Matplotlib, Plotly, Folium, Dash  
 - Scikit-learn, GridSearchCV
+- SQL
 
 ## Author
 
